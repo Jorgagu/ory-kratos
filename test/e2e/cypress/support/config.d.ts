@@ -231,6 +231,7 @@ export type Provider =
   | "patreon"
   | "linkedin"
   | "lark"
+  | "rso"
 export type OptionalStringWhichWillBeUsedWhenGeneratingLabelsForUIButtons =
   string
 /**
